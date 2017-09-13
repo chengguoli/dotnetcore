@@ -1,0 +1,10 @@
+/home/chengguo/dev/dotnetcore/bin/Debug/netcoreapp2.0/dotnetcore.deps.json
+/home/chengguo/dev/dotnetcore/bin/Debug/netcoreapp2.0/dotnetcore.runtimeconfig.json
+/home/chengguo/dev/dotnetcore/bin/Debug/netcoreapp2.0/dotnetcore.runtimeconfig.dev.json
+/home/chengguo/dev/dotnetcore/bin/Debug/netcoreapp2.0/dotnetcore.dll
+/home/chengguo/dev/dotnetcore/bin/Debug/netcoreapp2.0/dotnetcore.pdb
+/home/chengguo/dev/dotnetcore/obj/Debug/netcoreapp2.0/dotnetcore.csproj.CoreCompileInputs.cache
+/home/chengguo/dev/dotnetcore/obj/Debug/netcoreapp2.0/dotnetcore.AssemblyInfoInputs.cache
+/home/chengguo/dev/dotnetcore/obj/Debug/netcoreapp2.0/dotnetcore.AssemblyInfo.cs
+/home/chengguo/dev/dotnetcore/obj/Debug/netcoreapp2.0/dotnetcore.dll
+/home/chengguo/dev/dotnetcore/obj/Debug/netcoreapp2.0/dotnetcore.pdb
